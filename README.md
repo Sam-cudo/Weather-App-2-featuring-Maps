@@ -1,5 +1,6 @@
 # Weather-App-featuring-Maps
 A beginners project made with HTML, CSS and Javascript and use of Api's.
+User can scroll, zoom (do all things possible on a map) and wherever he clicks on the map Boom!!! he gets the weather info of that place.
 
 On Load:
 
